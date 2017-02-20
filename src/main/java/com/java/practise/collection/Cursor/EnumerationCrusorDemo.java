@@ -17,7 +17,7 @@ public class EnumerationCrusorDemo {
         while (e.hasMoreElements()){
             Integer I = (Integer) e.nextElement();
             if(I%2==0)
-                System.out.println(I); // [0,2,4,5,8,10]
+                System.out.println(I); // [0,2,4,6,8,10]
         }
         System.out.println(v);  //[0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
     }
