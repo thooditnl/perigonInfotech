@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite guice-stage="DEVELOPMENT" name="Failed suite [Default Suite]">
+  <test name="perigonInfotech">
+    <classes>
+      <class name="com.testng.practise.Testng_practise"/>
+    </classes>
+  </test> <!-- perigonInfotech -->
+</suite> <!-- Failed suite [Default Suite] -->

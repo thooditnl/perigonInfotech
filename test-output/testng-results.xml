@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="7" passed="7">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default Suite" duration-ms="70" started-at="2017-02-23T02:01:28Z" finished-at="2017-02-23T02:01:28Z">
+    <groups>
+    </groups>
+    <test name="perigonInfotech" duration-ms="70" started-at="2017-02-23T02:01:28Z" finished-at="2017-02-23T02:01:28Z">
+      <class name="com.testng.practise.Testng_practise">
+        <test-method status="PASS" signature="beforeSuite()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSuite" is-config="true" duration-ms="55" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSuite -->
+        <test-method status="PASS" signature="beforeTest()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeTest" is-config="true" duration-ms="2" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeTest -->
+        <test-method status="PASS" signature="beforeClass()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeClass" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeClass -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="acceptUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="acceptUp" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- acceptUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="3" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="firstUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="firstUp" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="4" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="q1()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="q1" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q1 -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="q2()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="q2" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q2 -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="q3()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="q3" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- q3 -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="secondUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="secondUp" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="beforeSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="beforeSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- beforeSetUp -->
+        <test-method status="PASS" signature="afterSetUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSetUp" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSetUp -->
+        <test-method status="PASS" signature="thirdUp()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="thirdUp" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- thirdUp -->
+        <test-method status="PASS" signature="afterClass()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterClass" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterClass -->
+        <test-method status="PASS" signature="afterTest()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterTest" is-config="true" duration-ms="0" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterTest -->
+        <test-method status="PASS" signature="afterSuite()[pri:0, instance:com.testng.practise.Testng_practise@506e6d5e]" name="afterSuite" is-config="true" duration-ms="1" started-at="2017-02-22T21:01:28Z" finished-at="2017-02-22T21:01:28Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- afterSuite -->
+      </class> <!-- com.testng.practise.Testng_practise -->
+    </test> <!-- perigonInfotech -->
+  </suite> <!-- Default Suite -->
+</testng-results>

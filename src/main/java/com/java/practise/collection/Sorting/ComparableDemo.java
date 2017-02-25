@@ -5,10 +5,12 @@ package com.java.practise.collection.Sorting;
  */
 public class ComparableDemo {
     public static void main(String[] args) {
-        System.out.println("A".compareTo("Z"));  //-25
+        System.out.println("abcd".compareTo("cxyc"));  //-25
         System.out.println("Z".compareTo("B"));  //24
         System.out.println("A".compareTo("A"));  //0
         System.out.println("A".compareTo("A"));  //0
-        System.out.println("A".compareTo(null));  //Null Pointer Exception
+      //  System.out.println("A".compareTo(null));  //Null Pointer Exception
+    char x[] = new char[10];
+    System.out.println(x[1]);
     }
 }
